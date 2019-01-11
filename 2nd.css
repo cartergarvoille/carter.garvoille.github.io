@@ -17,3 +17,7 @@ line-height: 300px;
     0%   { transform: translate(0, 0); }
     100% { transform: translate(-100%, 0); }
 }
+
+body {
+  background-image: url("https://www.viewlike.us/wp-content/uploads/2015/05/css-sucks.png");
+}
